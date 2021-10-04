@@ -20,3 +20,4 @@ Note: if you get a GIT error during the creation of a new project just set your 
 git config --global user.name "[your name]"
 git config --global user.email "[your email]"
 ```
+or just use the `--no-git` flag (e.g: `symfony new --dir=my-project --no-git`)
